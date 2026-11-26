@@ -15,4 +15,4 @@
 *Learning*
 
 - Arduino and ESP32
-- Programming my way into cool projects
+- Programming my way into electronics
